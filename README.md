@@ -22,5 +22,6 @@
 3. Put the jar file in a separate, empty folder (the result will be generated here);
 4. Put the image you want to convert in the same folder, it needs to be an original .jpg file, and it will need to be renamed to "convento";
 5. Double click the jar file and the result should pop-up.
+6. If the result isn't appearing, try running it from cmd or open with javaw.exe.
 
 ### I would like to remind you to use only original .jpg files, renaming the image to change its file type does not work well
